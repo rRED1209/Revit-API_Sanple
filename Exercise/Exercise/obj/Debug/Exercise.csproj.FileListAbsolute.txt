@@ -1,0 +1,111 @@
+c:\users\sian\documents\visual studio 2012\Projects\Exercise\Exercise\bin\Debug\Exercise.dll
+c:\users\sian\documents\visual studio 2012\Projects\Exercise\Exercise\bin\Debug\Exercise.pdb
+c:\users\sian\documents\visual studio 2012\Projects\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+c:\users\sian\documents\visual studio 2012\Projects\Exercise\Exercise\obj\Debug\Exercise.dll
+c:\users\sian\documents\visual studio 2012\Projects\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Sian\Desktop\Revit API 2014 教材\課堂練習參考解答 2014\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Sian\Desktop\Revit API 2014 教材\課堂練習參考解答 2014\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Sian\Desktop\Revit API 2014 教材\課堂練習參考解答 2014\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Sian\Desktop\Revit API 2014 教材\課堂練習參考解答 2014\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Sian\Desktop\Revit API 2014 教材\課堂練習參考解答 2014\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Hsu\Desktop\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Hsu\Desktop\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Hsu\Desktop\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Hsu\Desktop\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Hsu\Desktop\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Mac\Dropbox\2016 Revit API 課程\課堂練習參考解答 2015-12\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Mac\Dropbox\2016 Revit API 課程\課堂練習參考解答 2015-12\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Mac\Dropbox\2016 Revit API 課程\課堂練習參考解答 2015-12\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Dropbox\2016 Revit API 課程\課堂練習參考解答 2015-12\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Mac\Dropbox\2016 Revit API 課程\課堂練習參考解答 2015-12\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2016.08 Revit API\課堂練習參考解答\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2016.08 Revit API\課堂練習參考解答\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2016.08 Revit API\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2016.08 Revit API\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2016.08 Revit API\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitAPIUI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitAPIFoundation.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\UtilityAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\APIDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\GraphicsAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\EssentialsDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\GeomUtilAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\FamilyDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\DetailDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\HostObjDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\SiteDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\SculptingDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\StructuralDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\InterfaceAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RebarDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\MassingDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\AssemblyDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\DPartDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\NumberingDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\StairRampDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\DBManagedServices.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\AdWindows.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitAddInUtility.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\APIInterop.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\UIFramework.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\AddInManager.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitUIAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\DesktopMFCAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\APIUIAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitMFCAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\EssentialsUIAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\DetailUIAPI.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\UIFrameworkServices.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\ManagedMC3.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitAPI.xml
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\RevitAPIUI.xml
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\課堂練習參考解答\課堂練習參考解答\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Mac\source\repos\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Mac\source\repos\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Mac\source\repos\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Mac\source\repos\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Mac\source\repos\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Mac\source\repos\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Richard\source\repos\Exercise\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Exercise\Exercise\obj\Debug\Exercise.dll
+C:\Users\Richard\source\repos\Exercise\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Richard\source\repos\Exercise\Exercise\bin\Debug\Exercise.dll
+C:\Users\Richard\source\repos\Exercise\Exercise\bin\Debug\Exercise.pdb
