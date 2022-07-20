@@ -1,0 +1,22 @@
+c:\users\sian\documents\visual studio 2012\Projects\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.dll
+c:\users\sian\documents\visual studio 2012\Projects\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.pdb
+c:\users\sian\documents\visual studio 2012\Projects\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.csprojResolveAssemblyReference.cache
+c:\users\sian\documents\visual studio 2012\Projects\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.dll
+c:\users\sian\documents\visual studio 2012\Projects\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.pdb
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.csprojResolveAssemblyReference.cache
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.pdb
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\延伸練習參考解答\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.dll
+C:\Users\U-hackers\Desktop\課程\RevitAPI_201702\延伸練習參考解答\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.pdb
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\延伸練習參考解答\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\延伸練習參考解答\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.pdb
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.dll
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.pdb
+C:\Users\Mac\Dropbox\CAECE\Revit API Course\2017.08 Revit API\延伸練習參考解答\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.dll
+C:\Users\Richard\source\repos\ExtensionExercise\ExtensionExercise\obj\Debug\ExtensionExercise.pdb
+C:\Users\Richard\source\repos\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.dll
+C:\Users\Richard\source\repos\ExtensionExercise\ExtensionExercise\bin\Debug\ExtensionExercise.pdb

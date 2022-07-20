@@ -1,0 +1,18 @@
+C:\Users\Mac\Documents\Visual Studio 2017\Projects\SampleCode\SampleCode\bin\Debug\SampleCode.dll
+C:\Users\Mac\Documents\Visual Studio 2017\Projects\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+C:\Users\Mac\Documents\Visual Studio 2017\Projects\SampleCode\SampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Documents\Visual Studio 2017\Projects\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Documents\Visual Studio 2017\Projects\SampleCode\SampleCode\obj\Debug\SampleCode.dll
+C:\Users\Mac\Documents\Visual Studio 2017\Projects\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
+C:\Users\Mac\source\repos\SampleCode\SampleCode\bin\Debug\SampleCode.dll
+C:\Users\Mac\source\repos\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+C:\Users\Mac\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\Mac\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\Mac\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.dll
+C:\Users\Mac\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
+C:\Users\Richard\source\repos\SampleCode\SampleCode\bin\Debug\SampleCode.dll
+C:\Users\Richard\source\repos\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+C:\Users\Richard\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.dll
+C:\Users\Richard\source\repos\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
